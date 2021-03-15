@@ -1,2 +1,2 @@
 # Codility_Solutions
-https://app.codility.com/programmers/
+https://app.codility.com/programmer
